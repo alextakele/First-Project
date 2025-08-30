@@ -1,2 +1,2 @@
 # First-Project
-This is first repositry contain projects 
+This is the first repositry contain projects 
